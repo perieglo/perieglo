@@ -1,0 +1,6 @@
+a0-variables.js
+node_modules/
+.idea/
+/auth_config_bak.json
+/build_env.sh
+/auth_config.json
